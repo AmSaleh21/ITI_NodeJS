@@ -1,0 +1,16 @@
+{
+  "name": "company-clients-db-api",
+  "version": "1.0.0",
+  "description": "CRUD operation on the company db (mongo)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AmSaleh21",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.11"
+  }
+}
