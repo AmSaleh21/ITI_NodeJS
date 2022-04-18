@@ -1,0 +1,19 @@
+{
+    "name": "broadcast-chat",
+    "version": "0.1.0",
+    "description": "web app to broadcast messages with built with nodeJs",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "AmSaleh21",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.3",
+      "socket.io": "^4.4.1"
+    },
+    "devDependencies": {
+      "@faker-js/faker": "^6.1.2"
+    }
+  }
